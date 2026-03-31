@@ -1,1 +1,1 @@
-DevOps - Caster application.
+DevOps - Caster Application.
